@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:background="@color/white"
+    tools:context="com.example.badminton.OpenActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentBottom="false"
+        android:backgroundTint="#BF6E6E"
+        android:fontFamily="sans-serif-black"
+        android:lineSpacingExtra="16sp"
+        android:text="@string/selamatdatang"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#FF877F"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Badminton</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Muhammad Hasan Adli</string>
+    <string name="nav_header_subtitle">2010817210015</string>
+    <string name="nav_header_desc">Navigation</string>
+    <string name="action_indonesia">Indonesia</string>
+    <string name="action_english">English</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="selamatdatang">Selamat Datang</string>
+    <string name="welcome">Welcome</string>
+
+    //Gallery
+    <string name="badminton">Badminton</string>
+
+    <string name="yonex">Yonex</string>
+    <string name="adidas">Adidas</string>
+    <string name="proAce">ProAce</string>
+    <string name="wilson">Wilson</string>
+    <string name="lining">Lining</string>
+    <string name="karakal">Karakal</string>
+    <string name="astec">Astec</string>
+    <string name="ashaway">Ashaway</string>
+    <string name="flypower">Flypower</string>
+    <string name="victor">Victor</string>
+
+</resources>
